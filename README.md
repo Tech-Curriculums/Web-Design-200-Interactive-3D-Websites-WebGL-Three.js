@@ -34,3 +34,4 @@ Outline:
   * Animation
   * Voiceover
 7.  Creating a Narrated Tour
+  * Cross browser compatibilty with HTML5 Audio
