@@ -32,6 +32,7 @@ Outline:
   * Controls
   * Music
   * Animation
+  * On-Click actions
   * Voiceover
 7.  Creating a Narrated Tour
   * Cross browser compatibilty with HTML5 Audio
